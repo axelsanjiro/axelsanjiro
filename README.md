@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-🌱 I’m currently learning Computer Science at Binus University
-💬 Ask me about something
-📫 How to reach me: instagram @axelsanjiro
-⚡ Fun fact: i can solve a rubiks cube under 20s
+#🌱 I’m currently learning Computer Science at Binus University
+#💬 Ask me about something
+#📫 How to reach me: instagram @axelsanjiro
+#⚡ Fun fact: i can solve a rubiks cube under 20s
 
 <!--
 **axelsanjiro/axelsanjiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
