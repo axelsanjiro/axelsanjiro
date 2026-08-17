@@ -1,11 +1,9 @@
 <h2 align="left">Hi 👋, I'm Jiroo</h2>
 <h3 align="left">im a Computer Science student at Binus University</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **to not be unemployed**
 
 - 💬 Ask me about **Anything**
-
-- 📫 How to reach me **instagram: @axelsanjiro**
 
 - ⚡ Fun fact **I can solve the rubiks cube under 20s**
 
